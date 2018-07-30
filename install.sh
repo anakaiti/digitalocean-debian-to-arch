@@ -76,7 +76,7 @@ target_disklabel="gpt"
 target_filesystem="ext4"
 
 # NOT EXPOSED NORMALLY: don't prompt
-continue_without_prompting=0
+continue_without_prompting=1
 
 # NOT EXPOSED NORMALLY: path to metadata service
 # DigitalOcean metadata API
